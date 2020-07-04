@@ -16,3 +16,6 @@ Data sources:
   -GMail
   -Google Contacts
 
+Example use case:
+
+https://twitter.com/taimurabdaal/status/1279545213401337857
