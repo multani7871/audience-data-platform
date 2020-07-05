@@ -29,7 +29,6 @@ Data destinations
 
 Example use case:
  - https://twitter.com/taimurabdaal/status/1279545213401337857
- - 
 
 Resources:
 
@@ -37,5 +36,6 @@ Resources:
  - https://www.commsor.com/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDE4Njk1MDJdfQ==
+eyJoaXN0b3J5IjpbLTE4NTczMjI4MjcsLTE5NDE4Njk1MDJdfQ
+==
 -->
