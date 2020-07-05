@@ -27,3 +27,4 @@ https://twitter.com/taimurabdaal/status/1279545213401337857
 
 Resources:
 https://mobile.twitter.com/ljin18/status/1274464407322595329
+https://www.commsor.com/
