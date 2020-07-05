@@ -16,6 +16,14 @@ Data sources:
   -GMail
   -Google Contacts
 
+Data destinations
+-Causal
+-Google Sheets
+
+
 Example use case:
 
 https://twitter.com/taimurabdaal/status/1279545213401337857
+
+Resources:
+https://mobile.twitter.com/ljin18/status/1274464407322595329
