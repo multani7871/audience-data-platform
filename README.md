@@ -2,7 +2,11 @@
 
 Inspired by https://github.com/balajis/twitter-export
 
-High level description: https://twitter.com/HarveyMultani/status/1272270204601597958
+High level description: 
+
+https://twitter.com/HarveyMultani/status/1272270204601597958
+
+https://twitter.com/HarveyMultani/status/1249585530066608128
 
 Data sources:
 
